@@ -3,7 +3,7 @@ FaaSlang
 
 # FaaSlang
 
-![FaaSlang Logo](/images/faaslang-logo-small.png)
+![FaaSlang Logo](https://raw.githubusercontent.com/graphql-faas/faaslang/gh-pages/images/faaslang-logo-small.png)
 
 ![travis-ci build](https://travis-ci.org/faaslang/faaslang.svg?branch=master)
 ![npm version](https://badge.fury.io/js/faaslang.svg)
@@ -165,11 +165,11 @@ more robust execution (argument overloading, etc.)
 
 Here's what the current FaaS workflow looks like:
 
-![Current FaaS Workflow](./images/current-faas-workflow.jpg)
+![Current FaaS Workflow](https://raw.githubusercontent.com/graphql-faas/faaslang/gh-pages/images/current-faas-workflow.jpg)
 
 And this is what a FaaSlang-enabled workflow looks like.
 
-![FaaSlang Workflow](./images/faaslang-workflow.jpg)
+![FaaSlang Workflow](https://raw.githubusercontent.com/graphql-faas/faaslang/gh-pages/images/faaslang-workflow.jpg)
 
 FaaSlang is the result of tens of thousands of FaaS deployments, by thousands of
 developers, spread across a number of cloud service providers and the need to
