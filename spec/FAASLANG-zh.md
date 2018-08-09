@@ -5,9 +5,6 @@ FaaSlang
 
 ![FaaSlang Logo](https://raw.githubusercontent.com/graphql-faas/faaslang/gh-pages/images/faaslang-logo-small.png)
 
-![travis-ci build](https://travis-ci.org/faaslang/faaslang.svg?branch=master)
-![npm version](https://badge.fury.io/js/faaslang.svg)
-
 ## Function as a Service Language
 
 The following is a working draft of the latest FaaSlang specification, version
