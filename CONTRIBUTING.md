@@ -27,6 +27,16 @@
 
 ### 访问
 
+* public address
+
 ```code
 https://graphql-faas.github.io/faaslang/
+```
+
+* with docker
+
+```code
+docker-compose build && docker-compose up -d
+or 
+docker run -d -p 80:80 dalongrong/faaslang-zh:v1
 ```

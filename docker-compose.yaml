@@ -1,0 +1,7 @@
+version: "3"
+services:
+  nginx:
+    image: dalongrong/faaslang-zh:v1
+    build: .
+    ports:
+    - "8090:80"
