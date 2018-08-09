@@ -165,11 +165,11 @@ more robust execution (argument overloading, etc.)
 
 Here's what the current FaaS workflow looks like:
 
-![Current FaaS Workflow](/images/current-faas-workflow.jpg)
+![Current FaaS Workflow](./images/current-faas-workflow.jpg)
 
 And this is what a FaaSlang-enabled workflow looks like.
 
-![FaaSlang Workflow](/images/faaslang-workflow.jpg)
+![FaaSlang Workflow](./images/faaslang-workflow.jpg)
 
 FaaSlang is the result of tens of thousands of FaaS deployments, by thousands of
 developers, spread across a number of cloud service providers and the need to
